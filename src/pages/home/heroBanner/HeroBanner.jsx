@@ -4,7 +4,7 @@ import "./style.scss";
 import useFetch from "../../../hooks/useFetch";
 import { useSelector } from "react-redux";
 
-import Img from "../../../components/lazyLoadImage/img";
+import Img from "../../../components/lazyLoadImage/Img";
 import ContentWrapper from "../../../components/contentWrapper/ContentWrapper";
 
 const HeroBanner = () => {
